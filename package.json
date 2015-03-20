@@ -6,6 +6,9 @@
   "bugs": {
     "url": "https://github.com/mohayonao/is-zero/issues"
   },
+  "devDependencies": {
+    "mocha": "^2.2.1"
+  },
   "files": [
     "package.json",
     "README.md",
