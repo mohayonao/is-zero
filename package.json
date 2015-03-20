@@ -18,5 +18,9 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/mohayonao/is-zero.git"
+  },
+  "scripts": {
+    "test": "mocha --reporter spec",
+    "travis": "npm run test"
   }
 }
