@@ -5,6 +5,24 @@
 [![License](http://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](http://mohayonao.mit-license.org/)
 > is ±0 ?
 
+## Installation
+
+npm:
+
+```
+npm install is-zero
+```
+
+bower:
+
+```
+bower install is-zero
+```
+
+downloads:
+
+- [is-zero.js](https://raw.githubusercontent.com/mohayonao/is-zero/master/lib/is-zero.js)
+
 ## API
 
 - `is0.isZero(x: number): boolean`
