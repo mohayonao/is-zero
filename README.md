@@ -1,27 +1,14 @@
 # is-zero
-[![Build Status](http://img.shields.io/travis/mohayonao/is-zero.svg?style=flat-square)](https://travis-ci.org/mohayonao/is-zero)
-[![NPM Version](http://img.shields.io/npm/v/is-zero.svg?style=flat-square)](https://www.npmjs.org/package/is-zero)
-[![Bower](http://img.shields.io/bower/v/is-zero.svg?style=flat-square)](http://bower.io/search/?q=is-zero)
-[![License](http://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](http://mohayonao.mit-license.org/)
+[![Build Status](https://img.shields.io/travis/mohayonao/is-zero.svg?style=flat-square)](https://travis-ci.org/mohayonao/is-zero)
+[![NPM Version](https://img.shields.io/npm/v/is-zero.svg?style=flat-square)](https://www.npmjs.org/package/is-zero)
+[![License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](https://mohayonao.mit-license.org/)
 > is ±0 ?
 
 ## Installation
 
-npm:
-
 ```
-npm install is-zero
+$ npm install is-zero
 ```
-
-bower:
-
-```
-bower install is-zero
-```
-
-downloads:
-
-- [is-zero.js](https://raw.githubusercontent.com/mohayonao/is-zero/master/lib/is-zero.js)
 
 ## API
 
