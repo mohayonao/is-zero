@@ -2,19 +2,19 @@
   "name": "is-zero",
   "description": "is ±0 ?",
   "version": "0.1.1",
-  "author": "mohayonao <mohayonao@gmail.com>",
+  "author": "Nao Yonamine <mohayonao@gmail.com>",
   "bugs": {
     "url": "https://github.com/mohayonao/is-zero/issues"
   },
   "devDependencies": {
-    "mocha": "^2.2.1"
+    "mocha": "^2.5.3"
   },
   "files": [
     "package.json",
     "README.md",
     "lib"
   ],
-  "licenses": "MIT",
+  "license": "MIT",
   "main": "./lib/is-zero.js",
   "repository": {
     "type": "git",
