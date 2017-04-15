@@ -12,10 +12,10 @@
   "files": [
     "package.json",
     "README.md",
-    "lib"
+    "index.js"
   ],
   "license": "MIT",
-  "main": "./lib/is-zero.js",
+  "main": "index.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/mohayonao/is-zero.git"
